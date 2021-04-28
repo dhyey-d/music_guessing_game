@@ -1,13 +1,13 @@
-Here is a music game I made played in the terminal.
+Hi, this is a simple music guessing game I made with inspiration from https://github.com/adam-goodrich/MP3_Game
 
-Pick a folder with MP3 music files. The more files in the folder the better.
+You can run this in terminal or any IDE.
 
-A file will play.
+After running, pick a folder with MP3s (the more the better) for your game.
 
-You will be given three options.
+The song will play for 3 seconds, press m for more time or a for the answer.
 
-The correct song and two incorrect songs located in the music folder.
+This game was designed to be played with friends over discord with the host of the game streaming their screen.
 
-Pick the correct song and get a point!
+Enjoy
 
-
+-- pillowcasse
